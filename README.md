@@ -1,1 +1,1 @@
-# NLP-ALS---Image-forgery-detection-using-neural-networks
+# Image-forgery-detection-using-neural-networks
